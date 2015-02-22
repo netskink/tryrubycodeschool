@@ -1,0 +1,10 @@
+Notes on the tuturial interface
+help - starts the tutorial
+clear - clears the screen
+next/back - move forward/backward in the lesson
+
+
+"John".reverse
+"John".length
+"John"*5
+
